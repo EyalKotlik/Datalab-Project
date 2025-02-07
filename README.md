@@ -26,9 +26,12 @@ Make sure you are using python version **3.12.8**, we recommend using a virtual 
 ### Data Imputation
 Data imputation was performed via spark for added scalability. The spark environment was set up based
 on the https://github.com/cnoam/spark-course repository. Our version is attached in the privately provided
-Google Drive link alongside the data.
+OneDrive link alongside the data.
 After running the docker container, you can assign it as the remote Jupyter kernel in your IDE
 and use it to run the data imputation notebook.
+
+Alternatively, you can try to run the notebook on Databricks, but that would require tweaking the code
+to properly read the data, which you would have to upload to the Databricks workspace.
 
 ### App Only Installation
 If you want to run the app without any other code, you can install the docker image from the following commands:
@@ -42,7 +45,7 @@ sudo docker run --rm -p 8501:8501 datalab-app
 
 ## Data
 As per the project requirements, the data is not publicly available. The data will be
-provided in a privately shared Google Drive link. In the link each data folder
+provided in a privately shared OneDrive link. In the link each data folder
 will be named in a format data-{path}, where the path is where to put the data folder in the project
 (and rename it to just "data").
 
