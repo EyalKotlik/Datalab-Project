@@ -10,6 +10,7 @@ A brief description of your project, its purpose, and goals.
   - [Installation](#installation)
     - [App](#app)
     - [Data Imputation](#data-imputation)
+    - [App Only Installation](#app-only-installation)
   - [Data](#data)
   - [Running the App](#running-the-app)
 
@@ -21,10 +22,23 @@ To install the required Python packages, run the following command in your termi
 pip install -r requirements.txt
 ```
 Make sure you are using python version **3.12.8**, we recommend using a virtual environment or a conda environment to avoid conflicts with other projects.
+
 ### Data Imputation
 Data imputation was performed via spark for added scalability. The spark environment was set up based
 on the https://github.com/cnoam/spark-course repository. Our version is attached in the privately provided
 Google Drive link alongside the data.
+After running the docker container, you can assign it as the remote Jupyter kernel in your IDE
+and use it to run the data imputation notebook.
+
+### App Only Installation
+If you want to run the app without any other code, you can install the docker image from the following commands:
+```bash
+sudo docker build -t datalab-app .
+```
+After the image is built, you can run the app with the following command:
+```bash
+sudo docker run --rm -p 8501:8501 datalab-app
+```
 
 ## Data
 As per the project requirements, the data is not publicly available. The data will be
