@@ -1,0 +1,43 @@
+Cluster 0 R2 score: 0.585
+Cluster 1 R2 score: 0.4616
+Cluster 2 R2 score: 0.5067
+Cluster 3 R2 score: 0.4794
+Cluster 4 R2 score: 0.6542
+Cluster 5 R2 score: 0.5086
+Cluster 6 R2 score: 0.5571
+Cluster 7 R2 score: 0.7146
+Cluster 8 R2 score: 0.5897
+Cluster 9 R2 score: 0.0916
+Cluster 10 R2 score: 0.7777
+Cluster 11 R2 score: 0.9296
+Cluster 12 R2 score: 0.4581
+Cluster 13 R2 score: 0.4576
+Cluster 14 R2 score: 0.7216
+Cluster 15 R2 score: 0.5484
+Cluster 16 R2 score: 0.7031
+Cluster 17 R2 score: 0.588
+Cluster 18 R2 score: 0.6546
+Cluster 19 R2 score: 0.4423
+Cluster 20 R2 score: 0.7603
+Cluster 21 R2 score: 0.5551
+Cluster 22 R2 score: 0.6108
+Cluster 23 R2 score: 0.5205
+Cluster 24 R2 score: 0.5608
+Cluster 25 R2 score: 0.6179
+Cluster 26 R2 score: 0.678
+Cluster 27 R2 score: 0.4285
+Cluster 28 R2 score: 0.5987
+Cluster 29 R2 score: 0.6368
+Cluster 30 R2 score: 0.458
+Cluster 31 R2 score: 0.4942
+Cluster 32 R2 score: 0.3987
+Cluster 33 R2 score: 0.8664
+Cluster 34 R2 score: 0.6344
+Cluster 35 R2 score: 0.7954
+Cluster 36 R2 score: 0.6569
+Cluster 37 R2 score: 0.483
+Cluster 38 R2 score: 0.4314
+Cluster 39 R2 score: 0.4946
+
+Mean score: 0.5777475
+Median score: 0.5729

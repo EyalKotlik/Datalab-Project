@@ -1,0 +1,35 @@
+Cluster 0: manufacturing, machinery, industrial, pharmaceutical, automation, maritime, transportation, semiconductors, knowledge, management
+Cluster 1: photography, musicians, newspaper, and, publishing, artists, writers, writing, editing, periodical
+Cluster 2: production, and, animation, post, media, video, online, audio, distribution, broadcast
+Cluster 3: religious, institutions, offices, executive, legislative, administration, government, public, policy, of
+Cluster 4: administration, programs, education, higher, secondary, primary, and
+Cluster 5: facilities, services, recreational, gambling, casinos, and, relations, individual, family, information
+Cluster 6: practices, medical, insurance, medicine, alternative
+Cluster 7: law, practice, services, legal
+Cluster 8: services, and, fitness, wellness, nutrition, lifestyle, exercise, analytics, industrial, sports
+Cluster 9: arrangements, travel, hospitality
+Cluster 10: and, information, technology, internet, services, software, development, consulting, health, business
+Cluster 11: events, ticketing, marketing, enterprise, software, automation, services, application, mobile, apis
+Cluster 12: food, beverage, services, and, restaurants
+Cluster 13: providers, learning
+Cluster 14: retail, and, fashion, apparel, groceries, art, supplies, office, equipment, custom
+Cluster 15: data, smart, rental, transportation, big, content, construction, internet, analytics, innovation
+Cluster 16: and, coaching, training, professional
+Cluster 17: services, design
+Cluster 18: providers, entertainment
+Cluster 19: organizations, profit, non
+Cluster 20: and, recruiting, staffing, technology, firms, tech, hr, temporary
+Cluster 21: construction, architecture
+Cluster 22: mental, health, care
+Cluster 23: software, development
+Cluster 24: services, and, business, consulting, private, equity
+Cluster 25: services, advertising
+Cluster 26: investment, management, wealth, sports, cloud, tools, gambling, fantasy, computing, developer
+Cluster 27: it, and, services, consulting
+Cluster 28: sports, spectator
+Cluster 29: planning, architecture, and
+Cluster 30: and, electronics, manufacturing, computers, semiconductors, semiconductor, engineering, foodtech, biohacking, devices
+Cluster 31: hospitals, health, care, and, healthcare
+Cluster 32: services, consumer
+Cluster 33: and, oil, gas
+Cluster 34: truck, transportation
